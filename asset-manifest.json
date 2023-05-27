@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chama/static/css/main.13f4fd0e.css",
+    "main.js": "/chama/static/js/main.b73a05e0.js",
+    "static/js/787.60673673.chunk.js": "/chama/static/js/787.60673673.chunk.js",
+    "index.html": "/chama/index.html",
+    "main.13f4fd0e.css.map": "/chama/static/css/main.13f4fd0e.css.map",
+    "main.b73a05e0.js.map": "/chama/static/js/main.b73a05e0.js.map",
+    "787.60673673.chunk.js.map": "/chama/static/js/787.60673673.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13f4fd0e.css",
+    "static/js/main.b73a05e0.js"
+  ]
+}
